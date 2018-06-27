@@ -1,10 +1,10 @@
-#sharedmodules
+# sharedmodules
 
 In this demo, I put everything in one repo is for easy code management purpose
 
 Note: I didn't follow naming convention in this demo.
 
-##shared business/feature modules
+## shared business/feature modules
 - moduleBase    : Router
 - moduleService : Interface
 - moduleHMC     : HMC    
